@@ -6,4 +6,4 @@ client.on('ready', () => {
     console.log('The client is ready!')
 })
 
-client.login(procces.env.JARVIS_BOT)
+client.login(process.env.JARVIS_BOT)
